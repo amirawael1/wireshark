@@ -1,2 +1,2 @@
 # wireshark
-monitoring with Wireshark and pingpotter.
+monitoring with Wireshark and pingplotter.
